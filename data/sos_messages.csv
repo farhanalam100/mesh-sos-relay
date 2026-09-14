@@ -1,0 +1,361 @@
+text,category,severity
+"House is filling up with smoke on the rooftop, need immediate evacuation",evacuation,4
+"House is filling up with smoke on the second floor, need immediate evacuation",evacuation,4
+"My grandmother needs to be evacuated near the old bridge, road is flooded, no other way out",evacuation,3
+"My grandmother needs insulin urgently, we ran out and can't get to a pharmacy",medical,3
+"My husband is having a severe allergic reaction, in the collapsed building, please advise",medical,5
+"Infant needs formula milk on the second floor, we have none left and store is shut",water_food,4
+"Two of my coworkers is having trouble breathing and lips are turning blue, on the rooftop",medical,5
+"We are crushed under a fallen wall on the rooftop, a pregnant woman can't feel their legs",trapped_injured,5
+A child got stuck between fallen beams on the rooftop and is in a lot of pain,trapped_injured,4
+"Just checking if anyone has heard from my sister, no updates since morning",informational,2
+We have supplies but can't reach the distribution point by the water tank,water_food,2
+There is a large crack spreading across the wall on the rooftop and it keeps getting worse,structural_rescue,3
+"My husband is having trouble breathing and lips are turning blue, close to the highway",medical,5
+"Roof partially caved in in the basement, my roommate and others are trapped in the room below",structural_rescue,4
+"We are safe behind the market, just letting the family group know",informational,1
+"Trapped at the school shelter for over an hour, my husband is losing consciousness",trapped_injured,5
+"House is filling up with smoke behind the market, need immediate evacuation",evacuation,4
+"Running low on drinking water at the school shelter, six of us stranded here",water_food,3
+We have supplies but can't reach the distribution point close to the highway,water_food,2
+"Wall collapsed onto the shelter near the riverbank, unknown number of people underneath",structural_rescue,5
+"Two of my coworkers needs insulin urgently, we ran out and can't get to a pharmacy",medical,3
+Wanted to know if the main road towards the city is passable now,informational,1
+"Considering evacuating in the basement soon, would like guidance on safest route",evacuation,2
+"We are safe for now but stranded near the old bridge, requesting evacuation route",evacuation,2
+"House is filling up with smoke in the collapsed building, need immediate evacuation",evacuation,4
+"We are safe at the bus stand, just letting the family group know",informational,1
+"Water is rising fast behind the market, we need an evacuation boat soon",evacuation,4
+"A gas line ruptured near the collapsed structure at the school shelter, people still trapped",structural_rescue,4
+Wanted to know if the main road towards the city is passable now,informational,1
+"Roof partially caved in close to the highway, my sister and others are trapped in the room below",structural_rescue,4
+"My roommate just went into labor on the second floor, we need a medical team fast",medical,4
+"We are starving at the bus stand, haven't had a proper meal in three days",water_food,3
+"An elderly man has a high fever and won't wake up, we are close to the highway",medical,5
+"Is the road on the second floor clear yet, planning to head back home",informational,1
+"An elderly man needs to be evacuated in the basement, road is flooded, no other way out",evacuation,3
+"My grandmother needs clean water urgently, near the old bridge, getting dehydrated",water_food,4
+"We are safe in the collapsed building, just letting the family group know",informational,1
+"The family next door is having trouble breathing and lips are turning blue, near the riverbank",medical,5
+"Foundation looks shifted near the riverbank, floor is uneven and door frames won't close",structural_rescue,3
+"My father needs clean water urgently, near the old bridge, getting dehydrated",water_food,4
+"Two of my coworkers is not breathing properly, pinned under something heavy in the basement",trapped_injured,5
+"Has anyone seen my dog, he ran off during the storm close to the highway",informational,1
+"Just checking if anyone has heard from the family next door, no updates since morning",informational,2
+"My father is having trouble breathing and lips are turning blue, on the second floor",medical,5
+"Fire is spreading on Church Street, requesting evacuation transport",evacuation,4
+"My father is badly injured and can't move, at the school shelter, need help now",trapped_injured,4
+"The building at the bus stand is cracking and could collapse, people still inside",structural_rescue,4
+"Considering evacuating by the water tank soon, would like guidance on safest route",evacuation,2
+Wanted to know if the main road towards the city is passable now,informational,1
+"We are crushed under a fallen wall in the collapsed building, two of my coworkers can't feel their legs",trapped_injured,5
+A child is showing signs of infection from an untreated wound close to the highway,medical,3
+We have supplies but can't reach the distribution point by the water tank,water_food,2
+"My husband collapsed suddenly and isn't responding to us, by the water tank",medical,5
+"We are safe on the second floor, just letting the family group know",informational,1
+"Has anyone seen my dog, he ran off during the storm in the collapsed building",informational,1
+"Trapped on Church Street for over an hour, the family next door is losing consciousness",trapped_injured,5
+"My husband needs to be evacuated at the bus stand, road is flooded, no other way out",evacuation,3
+"We are safe for now but stranded on the second floor, requesting evacuation route",evacuation,2
+Just wanted to say thank you to the volunteers helping at the school shelter,informational,1
+"Considering evacuating by the water tank soon, would like guidance on safest route",evacuation,2
+"Roof partially caved in behind the market, an elderly man and others are trapped in the room below",structural_rescue,4
+"Just checking if anyone has heard from the family next door, no updates since morning",informational,2
+"A live wire fell on Church Street, nobody can safely get in or out until it's handled",structural_rescue,4
+"We are safe near the riverbank, just letting the family group know",informational,1
+"Foundation looks shifted by the water tank, floor is uneven and door frames won't close",structural_rescue,3
+"Just checking if anyone has heard from my sister, no updates since morning",informational,2
+"Foundation looks shifted on Church Street, floor is uneven and door frames won't close",structural_rescue,3
+"Fire is spreading in the basement, requesting evacuation transport",evacuation,4
+"We are pinned down by fallen concrete near the riverbank, my sister is bleeding heavily",trapped_injured,4
+"A pregnant woman just went into labor at the school shelter, we need a medical team fast",medical,4
+"An elderly man needs clean water urgently, near the riverbank, getting dehydrated",water_food,4
+"My father has a deep cut that won't stop bleeding, by the water tank",medical,3
+Just wanted to say thank you to the volunteers helping at the school shelter,informational,1
+"A child needs to be evacuated in the basement, road is flooded, no other way out",evacuation,3
+"My grandmother is vomiting blood on Church Street, we don't know what's wrong",medical,4
+"We are pinned down by fallen concrete at the school shelter, my mother is bleeding heavily",trapped_injured,4
+Can someone confirm if the shelter at the school shelter is still open,informational,1
+"An elderly man is badly injured and can't move, in the collapsed building, need help now",trapped_injured,4
+"Landslide warning issued near at the bus stand, requesting transport out",evacuation,3
+"A child needs clean water urgently, in the basement, getting dehydrated",water_food,4
+We have supplies but can't reach the distribution point by the water tank,water_food,2
+"The building near the old bridge is cracking and could collapse, people still inside",structural_rescue,4
+"Infant needs formula milk close to the highway, we have none left and store is shut",water_food,4
+"We are safe in the basement, just letting the family group know",informational,1
+"A gas line ruptured near the collapsed structure behind the market, people still trapped",structural_rescue,4
+"Wall collapsed onto the shelter behind the market, unknown number of people underneath",structural_rescue,5
+"Foundation looks shifted close to the highway, floor is uneven and door frames won't close",structural_rescue,3
+"We are safe for now but stranded on the second floor, requesting evacuation route",evacuation,2
+Wanted to know if the main road towards the city is passable now,informational,1
+"The family next door is badly injured and can't move, close to the highway, need help now",trapped_injured,4
+Wanted to know if the main road towards the city is passable now,informational,1
+"Has anyone seen my dog, he ran off during the storm near the old bridge",informational,1
+"Infant needs formula milk behind the market, we have none left and store is shut",water_food,4
+"Water is rising fast at the school shelter, we need an evacuation boat soon",evacuation,4
+"A pregnant woman needs insulin urgently, we ran out and can't get to a pharmacy",medical,3
+"A pregnant woman needs clean water urgently, by the water tank, getting dehydrated",water_food,4
+"We are safe for now but stranded on the second floor, requesting evacuation route",evacuation,2
+"Building collapsed near the old bridge, the family next door is stuck inside and not responding",trapped_injured,5
+My grandmother is showing signs of infection from an untreated wound behind the market,medical,3
+"Building collapsed in the basement, my husband is stuck inside and not responding",trapped_injured,5
+"Wall collapsed onto the shelter in the collapsed building, unknown number of people underneath",structural_rescue,5
+"Has anyone seen my dog, he ran off during the storm on the second floor",informational,1
+We have supplies but can't reach the distribution point at the bus stand,water_food,2
+"Roof partially caved in behind the market, an elderly man and others are trapped in the room below",structural_rescue,4
+The family next door got stuck between fallen beams at the bus stand and is in a lot of pain,trapped_injured,4
+We have supplies but can't reach the distribution point in the basement,water_food,2
+"Two of my coworkers is having a severe allergic reaction, close to the highway, please advise",medical,5
+"My husband is having severe chest pain in the basement, no ambulance can reach us",medical,4
+"Fire is spreading at the bus stand, requesting evacuation transport",evacuation,4
+"My sister collapsed suddenly and isn't responding to us, near the old bridge",medical,5
+"An elderly man is stuck by the water tank but conscious and talking, just can't get out",trapped_injured,3
+"We are safe for now but stranded close to the highway, requesting evacuation route",evacuation,2
+"Is the road near the old bridge clear yet, planning to head back home",informational,1
+"We are safe in the basement, just letting the family group know",informational,1
+"My sister is trapped under debris in the basement, please send rescue immediately",trapped_injured,4
+"Water is rising fast in the basement, we need an evacuation boat soon",evacuation,4
+"Building collapsed behind the market, my sister is stuck inside and not responding",trapped_injured,5
+"Considering evacuating on the second floor soon, would like guidance on safest route",evacuation,2
+"Landslide warning issued near at the school shelter, requesting transport out",evacuation,3
+Wanted to know if the main road towards the city is passable now,informational,1
+"Fire is spreading on Church Street, requesting evacuation transport",evacuation,4
+"My grandmother is badly injured and can't move, by the water tank, need help now",trapped_injured,4
+"My roommate is having a severe allergic reaction, in the basement, please advise",medical,5
+"Has anyone seen my dog, he ran off during the storm close to the highway",informational,1
+"My father collapsed suddenly and isn't responding to us, near the old bridge",medical,5
+"Foundation looks shifted on the second floor, floor is uneven and door frames won't close",structural_rescue,3
+"Water is rising fast at the bus stand, we need an evacuation boat soon",evacuation,4
+We have supplies but can't reach the distribution point on the second floor,water_food,2
+"My neighbor is having severe chest pain in the collapsed building, no ambulance can reach us",medical,4
+"My mother needs to be evacuated behind the market, road is flooded, no other way out",evacuation,3
+"My husband is not breathing properly, pinned under something heavy on Church Street",trapped_injured,5
+"We are safe for now but stranded at the school shelter, requesting evacuation route",evacuation,2
+"My father has a deep cut that won't stop bleeding, at the school shelter",medical,3
+"Running low on drinking water at the bus stand, six of us stranded here",water_food,3
+"A gas line ruptured near the collapsed structure behind the market, people still trapped",structural_rescue,4
+"My mother has a high fever and won't wake up, we are at the school shelter",medical,5
+"Gas smell is getting stronger in the basement, worried the structure isn't safe anymore",structural_rescue,4
+Does anyone know if power has been restored at the school shelter,informational,1
+"My roommate is not breathing properly, pinned under something heavy at the school shelter",trapped_injured,5
+There is a large crack spreading across the wall by the water tank and it keeps getting worse,structural_rescue,3
+"Infant needs formula milk on the rooftop, we have none left and store is shut",water_food,4
+There is a large crack spreading across the wall in the collapsed building and it keeps getting worse,structural_rescue,3
+"House is filling up with smoke in the collapsed building, need immediate evacuation",evacuation,4
+"Infant needs formula milk close to the highway, we have none left and store is shut",water_food,4
+"The family next door needs to be evacuated on Church Street, road is flooded, no other way out",evacuation,3
+"Infant needs formula milk near the old bridge, we have none left and store is shut",water_food,4
+"A live wire fell behind the market, nobody can safely get in or out until it's handled",structural_rescue,4
+"Balcony is hanging loose in the basement, residents refusing to leave, needs assessment",structural_rescue,3
+"House is filling up with smoke close to the highway, need immediate evacuation",evacuation,4
+"A pregnant woman is unconscious and buried under rubble at the bus stand, please hurry",trapped_injured,5
+"The building behind the market is cracking and could collapse, people still inside",structural_rescue,4
+"Is the road at the bus stand clear yet, planning to head back home",informational,1
+"A child has a deep cut that won't stop bleeding, behind the market",medical,3
+"Food stock is getting low in the collapsed building, should last one more day",water_food,2
+"An elderly man needs to be evacuated at the bus stand, road is flooded, no other way out",evacuation,3
+"My roommate is having a severe allergic reaction, behind the market, please advise",medical,5
+Just wanted to say thank you to the volunteers helping at the bus stand,informational,1
+"Building collapsed on the rooftop, a child is stuck inside and not responding",trapped_injured,5
+"We are safe for now but stranded in the basement, requesting evacuation route",evacuation,2
+"House is filling up with smoke near the riverbank, need immediate evacuation",evacuation,4
+"We are safe at the school shelter, just letting the family group know",informational,1
+"Infant needs formula milk by the water tank, we have none left and store is shut",water_food,4
+"A pregnant woman is unconscious and buried under rubble at the school shelter, please hurry",trapped_injured,5
+"My father is unconscious and buried under rubble by the water tank, please hurry",trapped_injured,5
+"My father needs to be evacuated on the second floor, road is flooded, no other way out",evacuation,3
+"My roommate is vomiting blood at the school shelter, we don't know what's wrong",medical,4
+"Is the road on Church Street clear yet, planning to head back home",informational,1
+"Water is rising fast near the riverbank, we need an evacuation boat soon",evacuation,4
+"Has anyone seen my dog, he ran off during the storm at the bus stand",informational,1
+"My roommate just went into labor near the old bridge, we need a medical team fast",medical,4
+"We are safe in the basement, just letting the family group know",informational,1
+"House is filling up with smoke on the second floor, need immediate evacuation",evacuation,4
+"Considering evacuating on Church Street soon, would like guidance on safest route",evacuation,2
+"Building collapsed by the water tank, my mother is stuck inside and not responding",trapped_injured,5
+"Infant needs formula milk on Church Street, we have none left and store is shut",water_food,4
+"Food stock is getting low in the collapsed building, should last one more day",water_food,2
+"We are safe near the old bridge, just letting the family group know",informational,1
+"Bridge near the riverbank is unstable, several vehicles stuck, need structural rescue team",structural_rescue,3
+"Just checking if anyone has heard from my roommate, no updates since morning",informational,2
+"My mother is badly injured and can't move, behind the market, need help now",trapped_injured,4
+"Slightly worried since my sister hasn't replied since last night, otherwise fine",informational,2
+Just wanted to say thank you to the volunteers helping in the basement,informational,1
+"My neighbor is stuck close to the highway but conscious and talking, just can't get out",trapped_injured,3
+"We are pinned down by fallen concrete at the bus stand, a child is bleeding heavily",trapped_injured,4
+"Roof partially caved in at the school shelter, a pregnant woman and others are trapped in the room below",structural_rescue,4
+"Bridge in the collapsed building is unstable, several vehicles stuck, need structural rescue team",structural_rescue,3
+"Infant needs formula milk on the rooftop, we have none left and store is shut",water_food,4
+"Considering evacuating close to the highway soon, would like guidance on safest route",evacuation,2
+"Trapped on Church Street for over an hour, a pregnant woman is losing consciousness",trapped_injured,5
+"Running low on drinking water close to the highway, six of us stranded here",water_food,3
+"Two of my coworkers needs to be evacuated in the basement, road is flooded, no other way out",evacuation,3
+"My grandmother is stuck near the old bridge but conscious and talking, just can't get out",trapped_injured,3
+"We are starving at the bus stand, haven't had a proper meal in three days",water_food,3
+"Water is rising fast near the old bridge, we need an evacuation boat soon",evacuation,4
+"Running low on drinking water near the riverbank, six of us stranded here",water_food,3
+"Roof partially caved in by the water tank, my husband and others are trapped in the room below",structural_rescue,4
+"Fire is spreading in the basement, requesting evacuation transport",evacuation,4
+"An elderly man is badly injured and can't move, on the rooftop, need help now",trapped_injured,4
+"My father is stuck on the rooftop but conscious and talking, just can't get out",trapped_injured,3
+"Two of my coworkers just went into labor at the bus stand, we need a medical team fast",medical,4
+"Fire is spreading near the old bridge, requesting evacuation transport",evacuation,4
+Wanted to know if the main road towards the city is passable now,informational,1
+"Landslide warning issued near behind the market, requesting transport out",evacuation,3
+"House is filling up with smoke behind the market, need immediate evacuation",evacuation,4
+"We are safe for now but stranded on the second floor, requesting evacuation route",evacuation,2
+"Foundation looks shifted at the school shelter, floor is uneven and door frames won't close",structural_rescue,3
+We have supplies but can't reach the distribution point on Church Street,water_food,2
+"Two of my coworkers is having trouble breathing and lips are turning blue, behind the market",medical,5
+"We are safe for now but stranded in the basement, requesting evacuation route",evacuation,2
+"Is the road by the water tank clear yet, planning to head back home",informational,1
+"A child collapsed suddenly and isn't responding to us, at the school shelter",medical,5
+An elderly man got stuck between fallen beams in the collapsed building and is in a lot of pain,trapped_injured,4
+"Entire floor gave way close to the highway, several people fell through, screaming heard",structural_rescue,5
+"Two of my coworkers just went into labor on Church Street, we need a medical team fast",medical,4
+"We are pinned down by fallen concrete near the riverbank, a pregnant woman is bleeding heavily",trapped_injured,4
+"Slightly worried since my neighbor hasn't replied since last night, otherwise fine",informational,2
+"A pregnant woman needs insulin urgently, we ran out and can't get to a pharmacy",medical,3
+"We are crushed under a fallen wall in the basement, my sister can't feel their legs",trapped_injured,5
+"Has anyone seen my dog, he ran off during the storm at the school shelter",informational,1
+"My grandmother collapsed suddenly and isn't responding to us, at the school shelter",medical,5
+"We are pinned down by fallen concrete behind the market, my neighbor is bleeding heavily",trapped_injured,4
+"My mother has a high fever and won't wake up, we are near the old bridge",medical,5
+"Food stock is getting low by the water tank, should last one more day",water_food,2
+"A child is having a severe allergic reaction, on the rooftop, please advise",medical,5
+"My neighbor needs insulin urgently, we ran out and can't get to a pharmacy",medical,3
+"A child is having a severe allergic reaction, on the rooftop, please advise",medical,5
+"Gas smell is getting stronger near the riverbank, worried the structure isn't safe anymore",structural_rescue,4
+"A child is having severe chest pain on the rooftop, no ambulance can reach us",medical,4
+"My grandmother needs clean water urgently, close to the highway, getting dehydrated",water_food,4
+"My sister is having a severe allergic reaction, on Church Street, please advise",medical,5
+"We are safe at the school shelter, just letting the family group know",informational,1
+"Infant needs formula milk on the second floor, we have none left and store is shut",water_food,4
+Just wanted to say thank you to the volunteers helping near the riverbank,informational,1
+"Has anyone seen my dog, he ran off during the storm on Church Street",informational,1
+"The building on the second floor is cracking and could collapse, people still inside",structural_rescue,4
+We have supplies but can't reach the distribution point on the rooftop,water_food,2
+We have supplies but can't reach the distribution point in the basement,water_food,2
+There is a large crack spreading across the wall at the school shelter and it keeps getting worse,structural_rescue,3
+Does anyone know if power has been restored close to the highway,informational,1
+"My grandmother has a deep cut that won't stop bleeding, in the basement",medical,3
+"Bridge in the basement is unstable, several vehicles stuck, need structural rescue team",structural_rescue,3
+Wanted to know if the main road towards the city is passable now,informational,1
+"Is the road at the bus stand clear yet, planning to head back home",informational,1
+"My father collapsed suddenly and isn't responding to us, in the collapsed building",medical,5
+"Slightly worried since my mother hasn't replied since last night, otherwise fine",informational,2
+"My mother is badly injured and can't move, on Church Street, need help now",trapped_injured,4
+"Trapped at the bus stand for over an hour, two of my coworkers is losing consciousness",trapped_injured,5
+"Just checking if anyone has heard from my father, no updates since morning",informational,2
+"An elderly man is having trouble breathing and lips are turning blue, by the water tank",medical,5
+"Landslide warning issued near behind the market, requesting transport out",evacuation,3
+"Running low on drinking water on the second floor, six of us stranded here",water_food,3
+"Gas smell is getting stronger by the water tank, worried the structure isn't safe anymore",structural_rescue,4
+"The family next door collapsed suddenly and isn't responding to us, on the rooftop",medical,5
+"Building collapsed on the second floor, the family next door is stuck inside and not responding",trapped_injured,5
+"My mother needs to be evacuated by the water tank, road is flooded, no other way out",evacuation,3
+"We are crushed under a fallen wall in the collapsed building, my sister can't feel their legs",trapped_injured,5
+"The building on the second floor is cracking and could collapse, people still inside",structural_rescue,4
+"Building collapsed in the collapsed building, my father is stuck inside and not responding",trapped_injured,5
+"Trapped on the rooftop for over an hour, two of my coworkers is losing consciousness",trapped_injured,5
+"No food left for two days on the second floor, mostly children and elderly here",water_food,3
+"My husband is having severe chest pain near the riverbank, no ambulance can reach us",medical,4
+"Wall collapsed onto the shelter behind the market, unknown number of people underneath",structural_rescue,5
+"House is filling up with smoke at the bus stand, need immediate evacuation",evacuation,4
+"Has anyone seen my dog, he ran off during the storm in the basement",informational,1
+"Water is rising fast behind the market, we need an evacuation boat soon",evacuation,4
+"We are starving at the school shelter, haven't had a proper meal in three days",water_food,3
+Does anyone know if power has been restored at the bus stand,informational,1
+"A pregnant woman is having severe chest pain on Church Street, no ambulance can reach us",medical,4
+"Two of my coworkers needs clean water urgently, behind the market, getting dehydrated",water_food,4
+"A pregnant woman is vomiting blood near the riverbank, we don't know what's wrong",medical,4
+"We are safe for now but stranded on the second floor, requesting evacuation route",evacuation,2
+Just wanted to say thank you to the volunteers helping near the old bridge,informational,1
+Just wanted to say thank you to the volunteers helping by the water tank,informational,1
+"We are starving on Church Street, haven't had a proper meal in three days",water_food,3
+"Balcony is hanging loose by the water tank, residents refusing to leave, needs assessment",structural_rescue,3
+"Balcony is hanging loose on the second floor, residents refusing to leave, needs assessment",structural_rescue,3
+"Foundation looks shifted by the water tank, floor is uneven and door frames won't close",structural_rescue,3
+"My roommate needs insulin urgently, we ran out and can't get to a pharmacy",medical,3
+"Foundation looks shifted close to the highway, floor is uneven and door frames won't close",structural_rescue,3
+"Trapped in the basement for over an hour, my mother is losing consciousness",trapped_injured,5
+"A child just went into labor on Church Street, we need a medical team fast",medical,4
+"Two of my coworkers needs to be evacuated close to the highway, road is flooded, no other way out",evacuation,3
+My sister is showing signs of infection from an untreated wound by the water tank,medical,3
+"We are safe for now but stranded on the second floor, requesting evacuation route",evacuation,2
+"Infant needs formula milk in the collapsed building, we have none left and store is shut",water_food,4
+"Foundation looks shifted on Church Street, floor is uneven and door frames won't close",structural_rescue,3
+We have supplies but can't reach the distribution point by the water tank,water_food,2
+"Running low on drinking water on the second floor, six of us stranded here",water_food,3
+"House is filling up with smoke on the rooftop, need immediate evacuation",evacuation,4
+"An elderly man is not breathing properly, pinned under something heavy on the second floor",trapped_injured,5
+My husband is showing signs of infection from an untreated wound in the basement,medical,3
+"An elderly man is not breathing properly, pinned under something heavy in the basement",trapped_injured,5
+"Two of my coworkers is stuck on the rooftop but conscious and talking, just can't get out",trapped_injured,3
+"Has anyone seen my dog, he ran off during the storm at the bus stand",informational,1
+"Balcony is hanging loose near the riverbank, residents refusing to leave, needs assessment",structural_rescue,3
+There is a large crack spreading across the wall on Church Street and it keeps getting worse,structural_rescue,3
+"Balcony is hanging loose on the second floor, residents refusing to leave, needs assessment",structural_rescue,3
+"Foundation looks shifted by the water tank, floor is uneven and door frames won't close",structural_rescue,3
+"An elderly man is trapped under debris at the school shelter, please send rescue immediately",trapped_injured,4
+"Entire floor gave way near the old bridge, several people fell through, screaming heard",structural_rescue,5
+"The building behind the market is cracking and could collapse, people still inside",structural_rescue,4
+"Infant needs formula milk on Church Street, we have none left and store is shut",water_food,4
+"A gas line ruptured near the collapsed structure behind the market, people still trapped",structural_rescue,4
+"We are safe on the second floor, just letting the family group know",informational,1
+"My grandmother is having a severe allergic reaction, in the collapsed building, please advise",medical,5
+"Entire floor gave way close to the highway, several people fell through, screaming heard",structural_rescue,5
+The family next door got stuck between fallen beams near the riverbank and is in a lot of pain,trapped_injured,4
+"My roommate is trapped under debris near the riverbank, please send rescue immediately",trapped_injured,4
+We have supplies but can't reach the distribution point close to the highway,water_food,2
+"My mother is trapped under debris by the water tank, please send rescue immediately",trapped_injured,4
+We have supplies but can't reach the distribution point in the basement,water_food,2
+My grandmother got stuck between fallen beams near the riverbank and is in a lot of pain,trapped_injured,4
+"Two of my coworkers needs clean water urgently, on the second floor, getting dehydrated",water_food,4
+"Foundation looks shifted near the riverbank, floor is uneven and door frames won't close",structural_rescue,3
+"An elderly man needs clean water urgently, on Church Street, getting dehydrated",water_food,4
+"My mother is not breathing properly, pinned under something heavy on the rooftop",trapped_injured,5
+Just wanted to say thank you to the volunteers helping on Church Street,informational,1
+We have supplies but can't reach the distribution point in the basement,water_food,2
+"Bridge on the second floor is unstable, several vehicles stuck, need structural rescue team",structural_rescue,3
+"A pregnant woman just went into labor on Church Street, we need a medical team fast",medical,4
+"Infant needs formula milk near the riverbank, we have none left and store is shut",water_food,4
+"House is filling up with smoke in the basement, need immediate evacuation",evacuation,4
+"Infant needs formula milk at the school shelter, we have none left and store is shut",water_food,4
+"Two of my coworkers is having trouble breathing and lips are turning blue, behind the market",medical,5
+"Water is rising fast at the bus stand, we need an evacuation boat soon",evacuation,4
+Two of my coworkers got stuck between fallen beams near the riverbank and is in a lot of pain,trapped_injured,4
+"My grandmother is unconscious and buried under rubble in the basement, please hurry",trapped_injured,5
+"We are starving in the basement, haven't had a proper meal in three days",water_food,3
+"Foundation looks shifted on Church Street, floor is uneven and door frames won't close",structural_rescue,3
+"My father needs clean water urgently, near the old bridge, getting dehydrated",water_food,4
+"My mother needs clean water urgently, at the bus stand, getting dehydrated",water_food,4
+"The family next door collapsed suddenly and isn't responding to us, close to the highway",medical,5
+"Landslide warning issued near at the school shelter, requesting transport out",evacuation,3
+"My neighbor has a high fever and won't wake up, we are on Church Street",medical,5
+"We are starving at the bus stand, haven't had a proper meal in three days",water_food,3
+"A gas line ruptured near the collapsed structure by the water tank, people still trapped",structural_rescue,4
+"The family next door is not breathing properly, pinned under something heavy on Church Street",trapped_injured,5
+"Entire floor gave way at the bus stand, several people fell through, screaming heard",structural_rescue,5
+"Has anyone seen my dog, he ran off during the storm at the school shelter",informational,1
+"Trapped by the water tank for over an hour, my mother is losing consciousness",trapped_injured,5
+"Trapped in the basement for over an hour, my sister is losing consciousness",trapped_injured,5
+My neighbor is showing signs of infection from an untreated wound at the school shelter,medical,3
+We have supplies but can't reach the distribution point at the school shelter,water_food,2
+"A gas line ruptured near the collapsed structure on the rooftop, people still trapped",structural_rescue,4
+"Food stock is getting low in the collapsed building, should last one more day",water_food,2
+"Running low on drinking water behind the market, six of us stranded here",water_food,3
+"Is the road near the old bridge clear yet, planning to head back home",informational,1
+"The building on Church Street is cracking and could collapse, people still inside",structural_rescue,4
+"A pregnant woman is stuck at the school shelter but conscious and talking, just can't get out",trapped_injured,3
+"Infant needs formula milk at the school shelter, we have none left and store is shut",water_food,4
+"Fire is spreading close to the highway, requesting evacuation transport",evacuation,4
+"Just checking if anyone has heard from my father, no updates since morning",informational,2
+"My mother is having trouble breathing and lips are turning blue, at the school shelter",medical,5
+My father is showing signs of infection from an untreated wound close to the highway,medical,3
+"Wall collapsed onto the shelter on Church Street, unknown number of people underneath",structural_rescue,5
+"My husband has a deep cut that won't stop bleeding, by the water tank",medical,3
+"Trapped near the riverbank for over an hour, two of my coworkers is losing consciousness",trapped_injured,5
+"A child is stuck behind the market but conscious and talking, just can't get out",trapped_injured,3
+"A gas line ruptured near the collapsed structure near the old bridge, people still trapped",structural_rescue,4
+"We are starving at the bus stand, haven't had a proper meal in three days",water_food,3
