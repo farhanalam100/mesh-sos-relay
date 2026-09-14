@@ -40,6 +40,3 @@ docker build -t mesh-sos-relay .
 docker run -p 8000:8000 mesh-sos-relay
 ```
 
-## AI tools disclosure
-Built with help from Claude (Anthropic) for architecture, code, the
-labeled training dataset, and the classifier pipeline.
